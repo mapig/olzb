@@ -1,0 +1,1137 @@
+[ 2017-01-09T00:09:54+08:00 ] 119.103.226.13 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T11:21:03+08:00 ] 192.168.0.242 /test/JBF/KQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [8] Undefined index: 黄琴 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 27 行.
+NOTIC: [8] Undefined index: 2016/12/01 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/02 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/03 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/04 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/05 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/06 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/08 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/09 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/10 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/11 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/12 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/13 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/14 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/15 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/16 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/17 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/18 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/20 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/21 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/22 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/23 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/24 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/25 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/26 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/27 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/28 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/29 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/31 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 李雪莲 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 27 行.
+NOTIC: [8] Undefined index: 2016/12/02 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/05 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/06 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/07 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/08 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/09 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/10 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/11 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/12 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/13 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/14 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/16 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/17 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/18 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/19 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/20 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/22 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/23 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/24 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/25 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/26 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/27 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/28 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/29 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/30 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/31 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 倪国龙 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 27 行.
+NOTIC: [8] Undefined index: 2016/12/14 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 裴又臻 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 27 行.
+NOTIC: [8] Undefined index: 2016/12/03 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/04 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/05 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/06 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/07 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/08 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/09 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/10 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/11 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/12 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/13 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/14 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/15 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/17 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/18 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/19 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/20 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/21 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/23 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/24 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/25 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/26 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/27 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/28 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/30 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/31 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 肖萍 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 27 行.
+NOTIC: [8] Undefined index: 2016/12/01 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/02 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/03 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/04 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/06 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/07 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/08 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/09 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/10 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/11 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/13 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/14 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/15 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/16 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/18 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/19 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/20 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/21 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/22 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/23 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/24 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/25 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/27 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/28 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/29 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/30 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/31 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 易利萍 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 27 行.
+NOTIC: [8] Undefined index: 2016/12/01 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/02 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/03 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/04 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/05 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/06 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/07 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/09 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/10 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/11 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/12 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/13 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/15 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/16 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/17 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/18 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/19 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/20 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/21 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/22 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/24 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/25 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/26 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/27 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/28 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/29 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/30 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 袁慧子 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 27 行.
+NOTIC: [8] Undefined index: 2016/12/01 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/02 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/03 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/05 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/06 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/07 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/08 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/10 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/11 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/12 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/13 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/14 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/15 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/16 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/17 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/19 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/20 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/21 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/22 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/23 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/24 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/25 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/26 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/27 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/29 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/30 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/31 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 周莉莉 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 27 行.
+NOTIC: [8] Undefined index: 2016/12/01 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/02 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/03 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/04 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/05 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/07 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/08 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/09 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/10 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/11 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/12 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/14 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/15 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/16 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/17 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/18 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/19 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/21 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/22 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/23 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/24 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/25 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/26 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/28 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/29 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/30 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [8] Undefined index: 2016/12/31 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 31 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [8] Undefined index: 2016/12/01 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/01 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/01 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/02 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/02 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/03 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/03 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/04 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/04 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/04 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/05 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/05 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/06 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/06 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/07 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/07 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/08 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/08 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/09 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/09 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/10 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/11 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/12 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/12 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/13 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/13 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/14 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/15 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/15 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/16 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/16 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/17 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/17 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/18 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/18 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/19 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/19 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/20 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/20 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/21 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/21 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/22 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/22 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/23 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/23 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/24 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/25 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/26 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/26 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/27 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/27 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/28 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/28 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/29 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/29 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/30 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/30 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/31 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Undefined index: 2016/12/31 D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 49 行.
+NOTIC: [8] Use of undefined constant this - assumed 'this' D:\tools\phpStudy\WWW\test\Application\JBF\Controller\KQController.class.php 第 87 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T12:22:43+08:00 ] 171.82.142.112 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T14:06:47+08:00 ] 119.96.119.5 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T14:20:45+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T15:02:21+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T15:02:24+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-01-09T15:02:44+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T15:02:44+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T16:17:45+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T16:17:48+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T16:17:50+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T17:07:07+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T17:31:27+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T17:31:30+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T17:31:34+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T18:50:35+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T18:51:01+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T18:54:48+08:00 ] 119.103.227.19 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T18:58:36+08:00 ] 119.103.227.19 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T19:15:14+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T19:28:19+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T19:45:02+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T19:50:50+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T19:57:30+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T19:57:30+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T20:31:07+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T20:31:23+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T20:47:20+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T20:47:29+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T21:30:51+08:00 ] 101.226.125.115 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T23:00:51+08:00 ] 119.103.227.19 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T23:00:58+08:00 ] 119.103.227.19 /test/index.php/JBF/Stock/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saleshop D:\tools\phpStudy\WWW\test\Application\JBF\Controller\StockController.class.php 第 12 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant this - assumed 'this' D:\tools\phpStudy\WWW\test\Application\JBF\Controller\StockController.class.php 第 98 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T23:33:45+08:00 ] 171.82.154.203 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-09T23:33:49+08:00 ] 171.82.154.203 /test/index.php/JBF/Stock/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saleshop D:\tools\phpStudy\WWW\test\Application\JBF\Controller\StockController.class.php 第 12 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant this - assumed 'this' D:\tools\phpStudy\WWW\test\Application\JBF\Controller\StockController.class.php 第 98 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T23:50:12+08:00 ] 171.82.154.203 /test/index.php/JBF/Stock/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant this - assumed 'this' D:\tools\phpStudy\WWW\test\Application\JBF\Controller\StockController.class.php 第 98 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T23:50:18+08:00 ] 171.82.154.203 /test/index.php/JBF/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-09T23:50:19+08:00 ] 171.82.154.203 /test/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

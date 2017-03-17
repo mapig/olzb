@@ -1,0 +1,87 @@
+<layout name="layout" />
+
+<div class="pure-skin-mine">
+	<!-- Default panel contents -->
+
+	<fieldset>
+		<legend>&nbsp;库存统计查询&nbsp;[当前门店:{$saleshop}]</legend>
+
+		<span>&nbsp;统计内容:&nbsp;</span>
+
+		<select name="analysistype" id="analysistype">
+			<option>黄金</option>
+			<option>铂金</option>
+			<option>硬金</option>
+			<option>彩金</option>
+		</select>
+
+		&nbsp;
+
+		<button  class="pure-button pure-button-primary" onclick="search()">查询</button>
+
+	</fieldset>
+
+
+	<div id="container" style="min-width:400px;height:300px;"></div>
+
+
+	<script>
+        $(function () {
+            $('#container').highcharts({
+                chart: {
+                    type: 'column'
+                },
+                title: {
+                    text: '饰品库存分析'
+                },
+                xAxis: {
+                    categories: ['0', '10', '20', '30', '40', '50', '60', '70', '80', '90', '100']   //指定x轴分组
+                },
+                yAxis: {
+                    title: {
+                        text: '饰品分布'
+                    }
+                },
+                series: []
+            });
+        });
+
+
+        function search(){
+
+            //alert($("#analysistype").val());
+
+            var stype = $("#analysistype").val();
+
+            $.ajax({ url: "search", data: {type:stype},dataType:"json", success: function(e){
+
+                var obj = jQuery.parseJSON(e);
+
+                //alert(e);
+
+                $('#container').highcharts({
+                    chart: {
+                        type: 'column'
+                    },
+                    title: {
+                        text: obj.text
+                    },
+                    xAxis: {
+                        categories: ['0', '10', '20', '30', '40', '50', '60', '70', '80', '90', '100']   //指定x轴分组
+                    },
+                    yAxis: {
+                        title: {
+                            text: '金重分布'
+                        }
+                    },
+                    series: obj.series
+                });
+
+            }});
+        }
+	</script>
+
+
+</div>
+
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Application/Common/Common/function.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/Controller/AccountsController.class.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/Controller/JFController.class.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/Controller/MaterialController.class.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/Controller/SaleController.class.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/Controller/SalesAnalysisController.class.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/Controller/StockController.class.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/View/Material/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/View/Sale/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/View/SalesAnalysis/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/View/Stock/analysis.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/View/Stock/checkin.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/View/Stock/checkout.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/View/Stock/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Application/JBF/View/Stock/sfind.html" charset="GBK" />
+  </component>
+</project>

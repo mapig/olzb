@@ -1,0 +1,67 @@
+<layout name="layout" />
+
+<script type="text/javascript">
+    $(function(){
+        // $("#jumpMenu").val(要选中的option的value值即可);
+        $("#saleshop").val("{$saleshop}");
+    });
+</script>
+
+<div class="pure-skin-mine">
+	<form class="pure-form pure-skin-mine" role="search"  method ="post" action="{:U('JBF/Stock/checkin')}">
+
+		<fieldset>
+			<legend>&nbsp;首饰上货查询&nbsp;[当前日期:{$saledate}]</legend>
+
+			<span>&nbsp;上货日期:&nbsp;</span>
+
+			<input name="saledate" id="saledate" type="text" style="width:100px;" value="{$saledate}"  >
+
+			&nbsp;
+
+			<!--span>&nbsp;查询门店:&nbsp;</span>
+
+            <select name="saleshop" id="saleshop">
+                <option>全部门店</option>
+                <option>OL珠宝解放路店</option>
+                <option>OL珠宝司门口店</option>
+            </select-->
+
+			<button type="submit" class="pure-button pure-button-primary">查询</button>
+
+		</fieldset>
+	</form>
+</div>
+
+<div class="pure-g pure-skin-mine">
+
+
+
+	<foreach name="lst1" item="sub" >
+
+
+		<div class="pure-u-1-4"><div class="dth-l">单号</div></div>
+		<div class="pure-u-1-4"><div class="dth-l" style="color:#ff0000;">{$sub.no}</div></div>
+		<div class="pure-u-1-4"><div class="dth-l">门店</div></div>
+		<div class="pure-u-1-4"><div class="dth-l" style="color:#ff0000;">{$sub.shop}</div></div>
+
+		<div class="pure-u-3-8"><div class="dth-l">名称</div></div>
+		<div class="pure-u-1-4"><div class="dth-l">条码</div></div>
+		<div class="pure-u-1-8"><div class="dth-l">类型</div></div>
+		<div class="pure-u-1-8"><div class="dth-l">总重</div></div>
+		<div class="pure-u-1-8"><div class="dth-l">售价</div></div>
+
+
+
+
+		<foreach name="sub.item" item="item" >
+			<div class="pure-u-3-8"><div class="dt1-l">{$item.name}</div></div>
+			<div class="pure-u-1-4"><div class="dt1-l" onclick="showproduct('{$item.code}')" style="color:#4096ee;">{$item.code}</div></div>
+			<div class="pure-u-1-8"><div class="dt1-l">{$item.catalog}</div></div>
+			<div class="pure-u-1-8"><div class="dt1-l">{$item.weight}</div></div>
+			<div class="pure-u-1-8"><div class="dt1-l">{$item.price}</div></div>
+
+		</foreach>
+	</foreach>
+
+</div>
