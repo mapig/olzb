@@ -1,0 +1,31 @@
+<layout name="layout" />
+
+		<div class="panel panel-default">
+			<!-- Default panel contents -->
+			<table class="table table-hover">
+				<thead>
+					<tr>
+						<th>姓名</th>
+						<th>日期</th>
+						<th>时间</th>
+					</tr>
+				</thead>
+				<tbody>
+
+				<tr>
+				<td>姓名</td>
+					<foreach name="dt" item="sub" >   
+					
+						<td>{$sub.KQDate}</td>
+					
+					</foreach>
+				</tr>
+					<foreach name="person" item="sub" >   
+					<tr>
+						<td>{$sub.NAME}</td>
+						{$sub.KQ}
+					</tr>  
+					</foreach>
+				</tbody>
+			</table>
+		</div>

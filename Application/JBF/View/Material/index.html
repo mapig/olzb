@@ -1,0 +1,80 @@
+<layout name="layout" />
+
+
+
+<div class="pure-skin-mine">
+	<form class="pure-form pure-skin-mine" role="search"  method ="post" action="{:U('JBF/Material/index')}">
+		<fieldset>
+			<legend>回收旧料查询&nbsp;&nbsp;[当前日期:{$saledate}]</legend>
+
+			<span>&nbsp;回收日期:&nbsp;</span>
+
+			<input name="saledate" id="saledate" type="text" style="width:100px;" value="{$saledate}"  >
+
+			&nbsp;
+
+			<button type="submit" class="pure-button pure-button-primary">查询</button>
+
+		</fieldset>
+	</form>
+</div>
+
+<div style="font-size:1px;line-height:1px;width:100%;background-color:#ededed;margin-bottom: 10px;">&nbsp;</div>
+
+<div class="pure-g pure-skin-mine">
+
+	<div class="pure-u-1-2"><div class="dth-l">单号</div></div>
+	<div class="pure-u-1-2"><div class="dth-l">类型</div></div>
+
+	<foreach name="lst1" item="sub" >
+
+		<div class="pure-u-1-2"><div class="dt1-l">{$sub.dh}</div></div>
+		<div class="pure-u-1-2"><div class="dt1-l">
+
+			<if condition="($sub.kz eq '.000')"><div style="color:#ff0000;">
+
+			</if>{$sub.lx}
+
+			<if condition="($sub.kz eq '.000')"></div></if>
+
+		</div></div>
+
+<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+<div class="pure-u-1-4"><div class="dt2-l">成色</div></div>
+<div class="pure-u-1-2"><div class="dt2-l">{$sub.cs}</div></div>
+
+<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+<div class="pure-u-1-4"><div class="dt2-l">宝石</div></div>
+<div class="pure-u-1-2"><div class="dt2-l">{$sub.bs}</div></div>
+
+<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+<div class="pure-u-1-4"><div class="dt2-l">类别</div></div>
+<div class="pure-u-1-2"><div class="dt2-l">{$sub.lb}</div></div>
+
+<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+<div class="pure-u-1-4"><div class="dt2-l">克重</div></div>
+<div class="pure-u-1-2"><div class="dt2-l">{$sub.kz}</div></div>
+
+<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+<div class="pure-u-1-4"><div class="dt2-l">回收价</div></div>
+<div class="pure-u-1-2"><div class="dt2-l">{$sub.hsj}</div></div>
+
+<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+<div class="pure-u-1-4"><div class="dt2-l">折扣</div></div>
+<div class="pure-u-1-2"><div class="dt2-l">{$sub.zk}</div></div>
+
+<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+<div class="pure-u-1-4"><div class="dt2-l">抵扣金额</div></div>
+<div class="pure-u-1-2"><div class="dt2-l">{$sub.dkje}</div></div>
+
+<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+<div class="pure-u-1-4"><div class="dt2-l">工费</div></div>
+<div class="pure-u-1-2"><div class="dt2-l">{$sub.gf}</div></div>
+
+
+
+
+<div class="pure-u-1"><div class="dt3-l"></div></div>
+</foreach>
+
+</div>

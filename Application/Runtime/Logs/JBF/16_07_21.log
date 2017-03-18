@@ -1,0 +1,168 @@
+[ 2016-07-21T10:31:33+08:00 ] 219.140.80.187 /test/JBF/Sale
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+
+[ 2016-07-21T10:31:52+08:00 ] 219.140.80.187 /test/JBF/Sale
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+
+[ 2016-07-21T10:32:08+08:00 ] 219.140.80.187 /test/JBF/Sale
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+
+[ 2016-07-21T10:32:24+08:00 ] 219.140.80.187 /test/JBF/Sale
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+
+[ 2016-07-21T10:32:43+08:00 ] 219.140.80.187 /test/JBF/Sale
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: saledate D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+
+[ 2016-07-21T10:33:13+08:00 ] 219.140.80.187 /test/JBF/Sale
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: saledate D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+
+[ 2016-07-21T11:14:33+08:00 ] 219.140.80.187 /test/JBF/Sale
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+
+[ 2016-07-21T11:14:58+08:00 ] 219.140.80.187 /test/JBF/Sale
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+
+[ 2016-07-21T16:03:21+08:00 ] 219.140.80.187 /test/JBF/Sale
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: saledate D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\Tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\Tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\Tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-21T18:02:45+08:00 ] 119.98.81.19 /test/JBF/Sale
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: saledate D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\Tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\SaleController.class.php on line 79 and defined D:\Tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\Tools\phpStudy\WWW\test\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-21T22:02:05+08:00 ] 219.140.80.187 /test/index.php/JBF/Stock/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\Tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\Tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\Tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant this - assumed 'this' D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\StockController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.317019s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.317019s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-21T22:09:55+08:00 ] 219.140.80.187 /test/index.php/JBF/Stock/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\Tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\Tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\Tools\phpStudy\WWW\test\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant this - assumed 'this' D:\Tools\phpStudy\WWW\test\Application\JBF\Controller\StockController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+

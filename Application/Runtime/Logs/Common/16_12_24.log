@@ -1,0 +1,6 @@
+[ 2016-12-24T16:40:01+08:00 ] 180.111.23.159 /test/sqlite/SQLiteManager-1.2.0/SQLiteManager-1.2.0/main.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Sqlite
+

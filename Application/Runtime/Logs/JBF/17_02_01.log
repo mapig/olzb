@@ -1,0 +1,877 @@
+[ 2017-02-01T12:18:07+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: lst1 D:\tools\phpStudy\WWW\olzb\Application\Runtime\Cache\JBF\ebfeb5ca1d76f822669ccb29c00f732b.php 第 132 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.033001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.033001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-02-01T12:18:13+08:00 ] 192.168.0.243 /olzb/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SaleController.class.php on line 82 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.090006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.090006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-02-01T12:19:56+08:00 ] 192.168.0.243 /olzb/index.php/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: lst1 D:\tools\phpStudy\WWW\olzb\Application\Runtime\Cache\JBF\ebfeb5ca1d76f822669ccb29c00f732b.php 第 132 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T12:19:59+08:00 ] 192.168.0.243 /olzb/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SaleController.class.php on line 82 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-01T12:20:27+08:00 ] 192.168.0.243 /olzb/index.php/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: lst1 D:\tools\phpStudy\WWW\olzb\Application\Runtime\Cache\JBF\ebfeb5ca1d76f822669ccb29c00f732b.php 第 132 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-01T12:20:49+08:00 ] 192.168.0.243 /olzb/index.php/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: lst1 D:\tools\phpStudy\WWW\olzb\Application\Runtime\Cache\JBF\ebfeb5ca1d76f822669ccb29c00f732b.php 第 132 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-01T12:21:15+08:00 ] 192.168.0.243 /olzb/index.php/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: lst1 D:\tools\phpStudy\WWW\olzb\Application\Runtime\Cache\JBF\ebfeb5ca1d76f822669ccb29c00f732b.php 第 132 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-01T12:26:00+08:00 ] 192.168.0.243 /olzb/index.php/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: lst1 D:\tools\phpStudy\WWW\olzb\Application\Runtime\Cache\JBF\ebfeb5ca1d76f822669ccb29c00f732b.php 第 132 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T12:26:18+08:00 ] 192.168.0.243 /olzb/index.php/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: lst1 D:\tools\phpStudy\WWW\olzb\Application\Runtime\Cache\JBF\ebfeb5ca1d76f822669ccb29c00f732b.php 第 132 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-01T12:54:41+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: lst1 D:\tools\phpStudy\WWW\olzb\Application\Runtime\Cache\JBF\ebfeb5ca1d76f822669ccb29c00f732b.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T13:05:45+08:00 ] 59.172.119.115 /olzb/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SaleController.class.php on line 82 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T13:08:16+08:00 ] 59.172.119.115 /olzb/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SaleController.class.php on line 82 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T13:36:29+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: lst1 D:\tools\phpStudy\WWW\olzb\Application\Runtime\Cache\JBF\ebfeb5ca1d76f822669ccb29c00f732b.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-01T13:37:05+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T13:38:33+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T13:40:56+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T13:43:53+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-01T13:44:25+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-01T13:46:49+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T13:46:50+08:00 ] 192.168.0.243 /olzb/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SaleController.class.php on line 82 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-01T13:46:56+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T14:01:55+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T14:07:59+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-01T14:10:27+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php:253) D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T14:10:55+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-01T14:49:55+08:00 ] 219.140.82.136 /olzb/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SaleController.class.php on line 82 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T14:57:14+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T15:40:19+08:00 ] 192.168.0.243 /olzb/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T16:34:13+08:00 ] 192.168.0.243 /olzb/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SaleController.class.php on line 82 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T16:44:22+08:00 ] 192.168.0.243 /olzb/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SaleController.class.php on line 82 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T17:38:05+08:00 ] 192.168.0.243 /olzb/index.php/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T17:58:30+08:00 ] 192.168.0.243 /olzb/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SaleController.class.php on line 82 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-01T17:58:36+08:00 ] 192.168.0.243 /olzb/index.php/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-01T18:05:18+08:00 ] 192.168.0.243 /olzb/index.php/JBF/SalesAnalysis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SalesAnalysisController.class.php on line 259 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-01T18:40:03+08:00 ] 171.82.227.203 /olzb/index.php/JBF/Sale/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: saledate D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SaleController.class.php 第 11 行.
+NOTIC: [2] sqlsrv_close() expects parameter 1 to be resource, null given D:\tools\phpStudy\WWW\olzb\Application\Common\Tools\ConnMssqlDB.class.php 第 43 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\tools\phpStudy\WWW\olzb\Application\JBF\Controller\SaleController.class.php on line 82 and defined D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\tools\phpStudy\WWW\olzb\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+

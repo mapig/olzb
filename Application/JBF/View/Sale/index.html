@@ -1,0 +1,83 @@
+<layout name="layout" />
+	<script type="text/javascript">
+		function showproduct(code){
+			var strMsg = '<div style="padding:20px;"><img class="pure-img" src="http://image.wholzb.com/product/'+code+'.jpg"/></div>';
+			layer.open({
+				type: 1,
+				area: ['280px', '420px'],
+				shadeClose: true,
+				content: strMsg
+				});
+		}
+	</script>
+
+	<div class="pure-skin-mine">
+		<form class="pure-form pure-skin-mine" role="search"  method ="post" action="{:U('JBF/Sale/index')}">
+		    <fieldset>
+		        <legend>&nbsp;首饰销售&nbsp;[当前日期:{$saledate}]</legend>
+				<span>&nbsp;销售日期:&nbsp;</span>
+		        <input name="saledate" id="saledate" type="text" style="width:100px;" value="{$saledate}"  >
+		        &nbsp;
+		        <button type="submit" class="pure-button pure-button-primary">查询</button>
+		    </fieldset>
+		</form>
+	</div>
+
+	<div style="font-size:1px;line-height:1px;width:100%;background-color:#ededed;margin-bottom: 10px;">&nbsp;</div>
+
+	<div class="pure-g pure-skin-mine">
+
+		<div class="pure-u-1-8"><div class="dth-l">单号</div></div>
+		<div class="pure-u-1-8"><div class="dth-l">类型</div></div>
+		<div class="pure-u-1-4"><div class="dth-l">条码</div></div>
+		<div class="pure-u-1-2"><div class="dth-l dth-r">名称</div></div>
+
+		<foreach name="lst1" item="sub" >
+			<div class="pure-u-1-8"><div class="dt1-l">{$sub.单号}</div></div>
+			<div class="pure-u-1-8"><div class="dt1-l">
+				<if condition="($sub.Type eq '1')"><div style="color:#ff0000;"></if>
+				{$sub.类型}
+				<if condition="($sub.Type eq '1')"></div></if>
+			</div></div>
+			<div class="pure-u-1-4"><div class="dt1-l" onclick="showproduct('{$sub.产品条码}')" style="color:#4096ee;">{$sub.产品条码}</div></div>
+			<div class="pure-u-1-2"><div class="dt1-l">
+				<if condition="($sub.Type eq '1')"><div style="color:#ff0000;"></if>
+					{$sub.产品名称}
+				<if condition="($sub.Type eq '1')"></div></if>
+			</div></div>
+
+			<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+			<div class="pure-u-1-4"><div class="dt2-l">种类</div></div>
+			<div class="pure-u-1-2"><div class="dt2-l">{$sub.类别}</div></div>
+
+			<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+			<div class="pure-u-1-4"><div class="dt2-l">金重</div></div>
+			<div class="pure-u-1-2"><div class="dt2-l">{$sub.金重}</div></div>
+
+			<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+			<div class="pure-u-1-4"><div class="dt2-l">总重</div></div>
+			<div class="pure-u-1-2"><div class="dt2-l">{$sub.总重}</div></div>
+
+			<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+			<div class="pure-u-1-4"><div class="dt2-l">工费</div></div>
+			<div class="pure-u-1-2"><div class="dt2-l">{$sub.加工费}/{$sub.实售工费}</div></div>
+
+			<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+			<div class="pure-u-1-4"><div class="dt2-l">原售价</div></div>
+			<div class="pure-u-1-2"><div class="dt2-l">{$sub.原售价}</div></div>
+
+			<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+			<div class="pure-u-1-4"><div class="dt2-l">实售价</div></div>
+			<div class="pure-u-1-2"><div class="dt2-l">{$sub.实售价}</div></div>
+
+			<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+			<div class="pure-u-1-4"><div class="dt2-l">销售员</div></div>
+			<div class="pure-u-1-2"><div class="dt2-l">{$sub.销售员}</div></div>
+
+			<div class="pure-u-1-4"><div class="dt2-l"></div></div>
+			<div class="pure-u-1-4"><div class="dt2-l">门店</div></div>
+			<div class="pure-u-1-2"><div class="dt2-l">{$sub.门店}</div></div>
+
+			<div class="pure-u-1"><div class="dt3-l"></div></div>
+		</foreach>
+	</div>
